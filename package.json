@@ -1,0 +1,21 @@
+{
+    "name": "digo-gulp",
+    "version": "0.1.0",
+    "repository": "http://github.com/digojs/digo-gulp",
+    "description": "digo 插件：使用 gulp 插件",
+    "keywords": [
+        "digo plugin"
+    ],
+    "license": "MIT",
+    "author": "xuld <xuld@vip.qq.com>",
+    "dependencies": {
+        "through2": "latest",
+        "vinyl": "latest"
+    },
+    "devDependencies": {
+        "gulp-less": "latest"
+    },
+    "files": [
+        "index.js"
+    ]
+}
